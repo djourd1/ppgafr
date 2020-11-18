@@ -1,37 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Damien Jourdain
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Agricultural and Natural Resource Economist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: CIRAD UMR G-EAU / University of Pretoria
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+bio: Agricultural and Natural Resource Economist
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,21 +23,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: "mailto:damien.jourdain@cirad.fr"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,10 +37,14 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+## Short Bio
+Damien Jourdain is currently based at the University of Pretoria, and an Agricultural and Natural Resources Economist, working with the UMR “Water Management, Uses, Actors” (G-EAU / CIRAD).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is mainly interested in the economic instruments leading to a better governance of natural resources, especially water. He works closely with the Centre for Environmental Economics and Policy in Africa (CEEPA), Faculty of Natural and Agricultural Sciences of the University of Pretoria (UP).
+
+Previously, he has been collaborating with the Asian Institute of Technology (2010-2017), the International Rice Research Institute in Vietnam (2006-2010) and the International Improvement Centre for Maize and Wheat in Mexico (1997-2002), and the United Nation Social and Economic Commission for Asia and the Pacific (1987-1995).
+
+He holds a PhD in Agricultural, Food and Rural Development Economics from the University of Montpellier (2004).
