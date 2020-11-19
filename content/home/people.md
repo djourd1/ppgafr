@@ -205,6 +205,17 @@ subtitle = ""
 
   <div class="column">
     <div class="card">
+      <img src="media/saenz.png" alt="Fernando Saenz" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Fernando Saenz</h5>
+        <p class="title">Costa Rica</p>
+        <a href="author/fernando-saenz"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
       <img src="media/affholder.png" alt="François Affholder" style="width:100%" class="center" >
       <div class="container">
         <h5>François Affholder</h5>
@@ -225,9 +236,15 @@ subtitle = ""
     </div>
   </div>
 
+
+</div>
+</rawhtml>
+
+<rawhtml>
+<div class="row">
   <div class="column">
     <div class="card">
-      <img src="media/ranaivoarisoa.png" alt="Ranaivoarisoa" style="width:100%" class="center" >
+      <img src="media/kambire.png" alt="Kambire" style="width:100%" class="center" >
       <div class="container">
         <h5>Hyacinthe Kambiré</h5>
         <p class="title">INERA; Burkina Faso</p>
@@ -235,5 +252,298 @@ subtitle = ""
       </div>
     </div>
   </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/lecoq.jpg" alt="Jef Le Coq" style="width:100%">
+      <div class="container">
+        <h5>Jean-François Le Coq</h5>
+        <p class="title">CIRAD, Costa Rica </p>
+        <a href="author/djiby-dia"> More here</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/bouvet.png" alt="JM Bouvet" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Jean-Marc Bouvet</h5>
+        <p class="title">Regional Director, CIRAD</p>
+        <a href="author/jean-marc-bouvet"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="column">
+    <div class="card">
+      <img src="media/sourisseau.png" alt="JM Sourisseau" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Jean-Michel Sourisseau</h5>
+        <p class="title">Head, Art-Dev, CIRAD, France</p>
+        <a href="author/jean-michel-sourisseau"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/feijo.png" alt="Feijo" style="width:100%" class="center" >
+      <div class="container">
+        <h5>João Feijò</h5>
+        <p class="title">OMR</p>
+        <a href="author/joao-feijo"> More here...</a>
+      </div>
+    </div>
+  </div>
 </div>
 </rawhtml>
+
+
+<rawhtml>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="media/razafia.png" alt="Jules Razafiarijaona" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Jules Razafiarijaona</h5>
+        <p class="title">ESSA; Madagascar</p>
+        <a href="author/jules-razafiarijaona"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/may.jpg" alt="Julian May" style="width:100%">
+      <div class="container">
+        <h5>Julian May</h5>
+        <p class="title">CoE, UWC </p>
+        <a href="author/julian-may"> More here</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/piraux.png" alt="Marc Piraux" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Marc Piraux</h5>
+        <p class="title">CIRAD UMR Tetis / BAME; Senegal</p>
+        <a href="author/marc-piraux"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="column">
+    <div class="card">
+      <img src="media/martins.png" alt="Margarida Martins" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Margarida Martins</h5>
+        <p class="title">Direction Scientifique, OMR, Mozambique</p>
+        <a href="author/margarida-martins"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/figuie.png" alt="Muriel Figuié" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Muriel Figuié</h5>
+        <p class="title">CIRAD UMR MOISA, UEM, Mozambique</p>
+        <a href="author/joao-feijo"> More here...</a>
+      </div>
+    </div>
+  </div>
+</div>
+</rawhtml>
+
+
+
+
+<rawhtml>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="media/giva.png" alt="Nicia Giva" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Nicia Giva</h5>
+        <p class="title">UEM Mozambique</p>
+        <a href="author/nicia-giva"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/razanakoto.jpg" alt="Pascal Razanakoto" style="width:100%">
+      <div class="container">
+        <h5>Pascal Razanakoto</h5>
+        <p class="title">Université d'Antanarivo, Madagascar</p>
+        <a href="author/pascal-razanakoto"> More here</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/rajantson.png" alt="Pascal Rajantson" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Pascal Rajantson</h5>
+        <p class="title">ESSA, Université d'Antanarivo, Madagascar</p>
+        <a href="author/marc-piraux"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="column">
+    <div class="card">
+      <img src="media/moustier.png" alt="Paule Moustier" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Paule Moustier</h5>
+        <p class="title">Head, UMR MOISA, CIRAD, France</p>
+        <a href="author/margarida-martins"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/burnod.png" alt="Perinne Burnod" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Perinne Burnod</h5>
+        <p class="title">CIRAD UMR TETIS, Madagascar</p>
+        <a href="author/perinne-burnod"> More here...</a>
+      </div>
+    </div>
+  </div>
+</div>
+</rawhtml>
+
+
+
+<rawhtml>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="media/bourgeois.png" alt="Robin Bourgeois" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Robin Bourgeois</h5>
+        <p class="title">CIRAD UMR ArtDev, Senegal</p>
+        <a href="author/robin-bourgeois"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/mercandalli.jpg" alt="Sara Mercandalli" style="width:100%">
+      <div class="container">
+        <h5>Sara Mercandalli</h5>
+        <p class="title">CIRAD UMR Art-Dev; France</p>
+        <a href="author/pascal-razanakoto"> More here</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/famba.png" alt="Sebastiao Famba" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Sebastiao Famba</h5>
+        <p class="title">UEM, Mozambique</p>
+        <a href="author/sebastiao-famba"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="column">
+    <div class="card">
+      <img src="media/hendricks.png" alt="Sheryl Hendricks" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Sheryl Hendricks</h5>
+        <p class="title">Head of Department, UP, South Africa</p>
+        <a href="author/sheryl-hendricks"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/perret.jpg" alt="Sylvain Perret" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Sylvain Perret</h5>
+        <p class="title">Head, CIRAD-ES, France</p>
+        <a href="author/sylvain-perret"> More here...</a>
+      </div>
+    </div>
+  </div>
+</div>
+</rawhtml>
+
+
+<rawhtml>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="media/levicky.png" alt="Sylvie Levicky" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Sylvie Levicky</h5>
+        <p class="title">Regional Director, CIRAD, Senegal</p>
+        <a href="author/sylvie-levicky"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/lafarge.jpg" alt="Tanguy Lafarge" style="width:100%">
+      <div class="container">
+        <h5>Tanguy Lafarge</h5>
+        <p class="title">CIRAD, Partnerships, France</p>
+        <a href="author/tanguy-lafarge"> More here</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/pedsiza.png" alt="Tarisayi Pedsiza" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Tarisayi Pedsiza</h5>
+        <p class="title">U Zimbabwe</p>
+        <a href="author/tarisayi-pedsiza"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="column">
+    <div class="card">
+      <img src="media/augusseau.png" alt="Xavier Augusseau" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Xavier Augusseau</h5>
+        <p class="title">Head, CIRAD UMR-TETIS, France</p>
+        <a href="author/xavier-augusseau"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/unknown.png" alt=" " style="width:100%" class="center" >
+      <div class="container">
+        <h5> </h5>
+        <p class="title"> </p>
+        <a href=" "> More here...</a>
+      </div>
+    </div>
+  </div>
+</div>
+</rawhtml>
+
