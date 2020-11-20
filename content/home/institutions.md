@@ -78,6 +78,17 @@ subtitle = ""
 
   <div class="column">
     <div class="card">
+      <img src="img1.png" alt="CMA" style="width:100%" class="center">
+      <div class="container">
+        <h5>CMA</h5>
+        <p class="title">Center for Mediation in Africa, University of Pretoria </p>
+        <a href="author/cma"> More here</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
       <img src="img1jpg" alt="ESSA" style="width:100%">
       <div class="container">
         <h5>ESSA</h5>

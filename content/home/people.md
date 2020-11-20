@@ -68,7 +68,7 @@ subtitle = ""
   
   <div class="column">
     <div class="card">
-      <img src="media/Hobeika.png" alt="Mike" style="width:40%" class="center">
+      <img src="media/hobeika.png" alt="Alexandre Hobeika" style="width:100%" class="center">
       <div class="container">
         <h5>Alexandre Hobeika</h5>
         <p class="title">Political Science &amp; Sociology; UMR MOISA, CIRAD, France </p>
@@ -79,7 +79,7 @@ subtitle = ""
 
   <div class="column">
     <div class="card">
-      <img src="media/alpha.jpg" alt="Arlene Alpha" style="width:100%">
+      <img src="media/alpha.jpg" alt="Arlene Alpha" style="width:70%" class = "center">
       <div class="container">
         <h5>Arlène Alpha</h5>
         <p class="title">Political Science &amp; Political Economics, UMR Moisa, CIRAD, France </p>
@@ -144,7 +144,7 @@ subtitle = ""
       <img src="media/wielenga.png" alt="Cori Wielenga" style="width:100%" class="center" >
       <div class="container">
         <h5>Cori Wielenga</h5>
-        <p class="title"></p>
+        <p class="title">Acting Director, Center for Mediation, UP</p>
         <a href="author/cori-wielenga"> More here...</a>
       </div>
     </div>
@@ -152,11 +152,11 @@ subtitle = ""
 
   <div class="column">
     <div class="card">
-      <img src="media/wielenga.png" alt="Damien Jourdain" style="width:100%" class="center" >
+      <img src="media/jourdain.png" alt="Damien Jourdain" style="width:100%" class="center" >
       <div class="container">
         <h5>Damien Jourdain</h5>
         <p class="title">Agricultural and Natural Resource Economist</p>
-        <p class="title">CIRAD / UP</p>
+        <p class="title">CIRAD / UP, South Africa</p>
         <a href="author/damien-jourdain"> More here...</a>
       </div>
     </div>
@@ -285,12 +285,7 @@ subtitle = ""
       </div>
     </div>
   </div>
-</div>
-</rawhtml>
 
-
-<rawhtml>
-<div class="row">
   <div class="column">
     <div class="card">
       <img src="media/razafia.png" alt="Jules Razafiarijaona" style="width:100%" class="center" >
@@ -302,12 +297,20 @@ subtitle = ""
     </div>
   </div>
 
+</div>
+
+</rawhtml>
+
+
+<rawhtml>
+<div class="row">
+
   <div class="column">
     <div class="card">
-      <img src="media/may.jpg" alt="Julian May" style="width:100%">
+      <img src="media/may.png" alt="Julian May" style="width:100%">
       <div class="container">
         <h5>Julian May</h5>
-        <p class="title">CoE, UWC </p>
+        <p class="title">CoE Food Security, UWC </p>
         <a href="author/julian-may"> More here</a>
       </div>
     </div>
@@ -346,14 +349,7 @@ subtitle = ""
       </div>
     </div>
   </div>
-</div>
-</rawhtml>
 
-
-
-
-<rawhtml>
-<div class="row">
   <div class="column">
     <div class="card">
       <img src="media/giva.png" alt="Nicia Giva" style="width:100%" class="center" >
@@ -364,6 +360,17 @@ subtitle = ""
       </div>
     </div>
   </div>
+
+
+</div>
+</rawhtml>
+
+
+
+
+<rawhtml>
+<div class="row">
+
 
   <div class="column">
     <div class="card">
@@ -409,13 +416,27 @@ subtitle = ""
       </div>
     </div>
   </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/vololonirainy.png" alt="Ravoniarijaona Vololonirainy" style="width:100%" class="center" >
+      <div class="container">
+        <h5>Ravoniarijaona Vololonirainy</h5>
+        <p class="title">Madagascar</p>
+        <a href="author/ravoniarijaona-vololonirainy"> More here...</a>
+      </div>
+    </div>
+  </div>
 </div>
+
 </rawhtml>
 
 
 
 <rawhtml>
 <div class="row">
+
+
   <div class="column">
     <div class="card">
       <img src="media/bourgeois.png" alt="Robin Bourgeois" style="width:100%" class="center" >
@@ -479,11 +500,11 @@ subtitle = ""
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="media/levicky.png" alt="Sylvie Levicky" style="width:100%" class="center" >
+      <img src="media/lewicki.jpg" alt="Sylvie Lewicki" style="width:100%" class="center" >
       <div class="container">
-        <h5>Sylvie Levicky</h5>
+        <h5>Sylvie Lewicki</h5>
         <p class="title">Regional Director, CIRAD, Senegal</p>
-        <a href="author/sylvie-levicky"> More here...</a>
+        <a href="author/sylvie-lewicki"> More here...</a>
       </div>
     </div>
   </div>

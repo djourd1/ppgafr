@@ -43,10 +43,10 @@ user_groups:
 ---
 
 ## Short bio
-Dr. Alexandre Hobeika
+Alexandre Hobeika is a researcher in sociology and political science. He is studying how sanitary issues transform the modes of government of the agricultural sector. His current projects focus on the policies against antimicrobial resistance (institutions, markets, professions, surveillance), and the global industry of veterinary medicines.
 
-## Areas of Expertise
+## Publications related to public policies and governance
 
-## Current activities related to public policies and governance in Africa
++ Jaime, G., Hobeika, A., & Figuié, M., 2020, “Access to Veterinary Medicines in sub-Saharan Africa”, preprint,  10.31730/osf.io/8vcj2
 
-## Five maximum relevant Publications related to public policies and governance
++ Surdez, M., Piquerez, L. & Hobeika, A., 2020, “Torn between responsibility and loyalty: how the veterinarian profession designs antibiotic resistance policies that shake its foundations”, Rev Agric Food Environ Stud, 10.1007/s41130-020-00122-y

@@ -15,8 +15,8 @@ role: Political Science, Political Economics
 
 # Organizations/Affiliations
 organizations:
-- name: CIRAD, UMR Moisa
-  url: ""
+- name: CIRAD, UMR Moisa, France
+  url: "https://umr-moisa.cirad.fr/"
 
 
 
@@ -44,7 +44,7 @@ user_groups:
 
 ## Short bio
 
-Arlène ALPHA is a research fellow at CIRAD since 2012 and has more than 20 years of experience in the field of food and nutrition security, especially in West Africa. After her PhD in political economy on agricultural and forest public policies in Cote d’Ivoire, she worked around 12 years in NGOs as an agricultural and food security expert. She has been working on a number of studies and projects on food security, trade and agricultural policies. At CIRAD, she develops her research on the analysis of food and nutrition security public policies. Based in Burkina Faso for 5 years (2014-2019), she mainly worked on inter-sectoral coordination issues between agriculture and nutrition sectors in this country. More recently, she has extending her research area to public policies supportive of organic agriculture and agroecological transition in relation to food systems and their contribution to food and nutrition security. Since 2016, she is in charge of the animation of the partnership “Information for food security” bringing together eight West African research institutions and CIRAD (https://www.dp-isa.org/). She is also a co-animator of one of the six CIRAD’s key thematic fields, on “Supporting the transition to more sustainable, inclusive food systems.
+Arlène ALPHA is a research fellow at CIRAD since 2012 and has more than 20 years of experience in the field of food and nutrition security, especially in West Africa. After her PhD in political economy on agricultural and forest public policies in Cote d’Ivoire, she worked around 12 years in NGOs as an agricultural and food security expert. She has been working on a number of studies and projects on food security, trade and agricultural policies. At CIRAD, she develops her research on the analysis of food and nutrition security public policies. Based in Burkina Faso for 5 years (2014-2019), she mainly worked on inter-sectoral coordination issues between agriculture and nutrition sectors in this country. More recently, she has extending her research area to public policies supportive of organic agriculture and agroecological transition in relation to food systems and their contribution to food and nutrition security. Since 2016, she is in charge of the animation of the partnership “Information for food security” [(ISA)](https://www.dp-isa.org) bringing together eight West African research institutions and CIRAD . She is also a co-animator of one of the six CIRAD’s key thematic fields, on “Supporting the transition to more sustainable, inclusive food systems.
 
 
 ## Areas of Expertise
