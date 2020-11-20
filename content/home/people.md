@@ -164,25 +164,6 @@ subtitle = ""
 
   <div class="column">
     <div class="card">
-      <img src="media/buckert.png" alt="David Burckert" style="width:100%" class="center" >
-      <div class="container">
-        <h5>David Buckert</h5>
-        <p class="title"></p>
-        <a href="author/david-buckert"> More here...</a>
-      </div>
-    </div>
-  </div>  
-
-
-</div>
-</rawhtml>
-
-
-<rawhtml>
-<div class="row">
-  
-  <div class="column">
-    <div class="card">
       <img src="img2.jpg" alt="Djiby Dia" style="width:100%">
       <div class="container">
         <h5>Djiby Dia</h5>
@@ -192,6 +173,13 @@ subtitle = ""
     </div>
   </div>
 
+</div>
+</rawhtml>
+
+
+<rawhtml>
+<div class="row">
+ 
   <div class="column">
     <div class="card">
       <img src="media/mungatana.png" alt="Eric Mungatana" style="width:100%" class="center" >
@@ -236,12 +224,6 @@ subtitle = ""
     </div>
   </div>
 
-
-</div>
-</rawhtml>
-
-<rawhtml>
-<div class="row">
   <div class="column">
     <div class="card">
       <img src="media/kambire.png" alt="Kambire" style="width:100%" class="center" >
@@ -253,6 +235,12 @@ subtitle = ""
     </div>
   </div>
 
+
+</div>
+</rawhtml>
+
+<rawhtml>
+<div class="row">
   <div class="column">
     <div class="card">
       <img src="media/lecoq.jpg" alt="Jef Le Coq" style="width:100%">
@@ -281,7 +269,7 @@ subtitle = ""
       <img src="media/sourisseau.png" alt="JM Sourisseau" style="width:100%" class="center" >
       <div class="container">
         <h5>Jean-Michel Sourisseau</h5>
-        <p class="title">Head, Art-Dev, CIRAD, France</p>
+        <p class="title">Deputy Director, UMR Art-Dev, CIRAD, France</p>
         <a href="author/jean-michel-sourisseau"> More here...</a>
       </div>
     </div>
@@ -467,7 +455,7 @@ subtitle = ""
       <img src="media/hendricks.png" alt="Sheryl Hendricks" style="width:100%" class="center" >
       <div class="container">
         <h5>Sheryl Hendricks</h5>
-        <p class="title">Head of Department, UP, South Africa</p>
+        <p class="title">Head, Dept AEERD, UP, South Africa</p>
         <a href="author/sheryl-hendricks"> More here...</a>
       </div>
     </div>

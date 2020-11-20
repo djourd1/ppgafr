@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>partnership | Public Policies and Governance in Africa - 23/11 Workshop</title>
+    <link>//localhost:1313/tag/partnership/</link>
+      <atom:link href="//localhost:1313/tag/partnership/index.xml" rel="self" type="application/rss+xml" />
+    <description>partnership</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Damien Jourdain 2020</copyright><lastBuildDate>Mon, 23 Nov 2020 10:35:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>partnership</title>
+      <link>//localhost:1313/tag/partnership/</link>
+    </image>
+    
+    <item>
+      <title>Presentation of INERA activities</title>
+      <link>//localhost:1313/talk/talk3/</link>
+      <pubDate>Mon, 23 Nov 2020 10:35:00 +0000</pubDate>
+      <guid>//localhost:1313/talk/talk3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CIRAD - Collaborative partnerships</title>
+      <link>//localhost:1313/talk/talk2/</link>
+      <pubDate>Mon, 23 Nov 2020 10:25:00 +0000</pubDate>
+      <guid>//localhost:1313/talk/talk2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

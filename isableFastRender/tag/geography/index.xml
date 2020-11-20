@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geography | Public Policies and Governance in Africa - 23/11 Workshop</title>
+    <link>//localhost:1313/tag/geography/</link>
+      <atom:link href="//localhost:1313/tag/geography/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geography</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Damien Jourdain 2020</copyright><lastBuildDate>Mon, 23 Nov 2020 10:50:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Geography</title>
+      <link>//localhost:1313/tag/geography/</link>
+    </image>
+    
+    <item>
+      <title>Presentation of U. of Madagascar Geographic Department</title>
+      <link>//localhost:1313/talk/talk5/</link>
+      <pubDate>Mon, 23 Nov 2020 10:50:00 +0000</pubDate>
+      <guid>//localhost:1313/talk/talk5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
