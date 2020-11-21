@@ -65,3 +65,13 @@ He has worked at currently posted at the Centre for the Study of Governance Inno
 
 
 ## Publications related to public policies and governance
+
++ Bourgeois, R., Mattheis, F., Kotsopoulos, J., 2020. Post-normal times: re-thinking the futures of the EU-Africa relationship. Eur. J. Futur. Res. 8, 9. [doi: 10.1186/s40309-020-00167-8](https://doi.org/10.1186/s40309-020-00167-8)
+
++ Bourgeois, R., Liswanti, N., Mukasa, C., Zamora, A., Herawati, T., Monterroso, I., Mshale, B., Banjade, M.R., Mwangi, E., Larson, A., Iliana, M., Mshale, B., Mwangi, E., Larson, A., 2017. Guide for co-elaboration of scenarios: Building shared understanding and joint action for reform and security of forest tenure. CIFOR, Bogor. [doi: 10.17528/cifor/006749](https://doi.org/10.17528/cifor/006749)
+
++ Bourgeois, R., Penunia, E., Bisht, S., Boruk, D., 2017. Foresight for all: Co-elaborative scenario building and empowerment. Technol. Forecast. Soc. Change 124, 178–188. [doi: 10.1016/j.techfore.2017.04.018](https://doi.org/10.1016/j.techfore.2017.04.018)
+
++ Bourgeois, R., 2015. What Future for Rural Areas? Seven plausible rural transformations. Development 58, 177–186. [doi: 10.1057/s41301-016-0017-1](https://doi.org/10.1057/s41301-016-0017-1)
+
++ Bourgeois, R., 2016. Food Insecurity: The Future Challenge. IDS Bull. 47, 71–84. [doi: 10.19088/1968-2016.156](https://doi.org/10.19088/1968-2016.156)
