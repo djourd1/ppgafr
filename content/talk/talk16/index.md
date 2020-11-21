@@ -57,4 +57,3 @@ projects: []
 math: false
 ---
 
-We will conclude the day by an open discussion about what would be the next steps: how to build the partnership? what governance? what calendar? 

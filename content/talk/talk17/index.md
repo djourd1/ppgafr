@@ -55,4 +55,6 @@ projects: []
 math: false
 ---
 
-In this short brainstorming session we will ask your suggestions for names and acronyms for a partnership platform.
+
+
+We will conclude the day by an open discussion about what would be the next steps: how to build the partnership? what governance? what calendar? 
