@@ -52,7 +52,6 @@ subtitle = ""
 
 
 <rawhtml>
-<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -98,6 +97,27 @@ subtitle = ""
     </div>
   </div>
 
+
+  <div class="column">
+    <div class="card">
+      <img src="media/dgeog.png" alt="Dpt Geography" style="width:100%" class="center">
+      <div class="container">
+        <h5>Department of Geography</h5>
+        <p class="title"> Faculty of Literature and Human Sciences, University of Antananarivo, Madagascar </p>
+        <a href="author/dept-geography"> More here</a>
+      </div>
+    </div>
+  </div>
+
+
+
+  
+</div>
+</rawhtml>
+
+<rawhtml>
+<div class="row">
+
   <div class="column">
     <div class="card">
       <img src="img1jpg" alt="ESSA" style="width:100%">
@@ -108,8 +128,6 @@ subtitle = ""
       </div>
     </div>
   </div>
-
   
 </div>
 </rawhtml>
-
