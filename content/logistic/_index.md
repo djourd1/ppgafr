@@ -47,6 +47,7 @@ For the afternoon sessions, in addition to the Zoom session, we will also use a 
 To join us on `Klaxoon`, follow these instructions:
 
 1 Open your browser and open the [Klaxoon website](https://klaxoon.com)
+
 2 On the left of the screen, you will see an invitation to enter a code:
 
 <img src="participate.png" alt="participate" class="center">
