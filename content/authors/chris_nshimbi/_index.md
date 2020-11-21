@@ -23,13 +23,7 @@ bio: Professor, Political Economics
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: "mailto:christopher.nshimbi@up.ac.za"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -42,5 +36,7 @@ highlight_name: true
 ## Short bio
 
 ## Areas of Expertise
+
 ## Current activities related to public policies and governance in Africa
+
 ## Five maximum relevant Publications related to public policies and governance
