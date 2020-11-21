@@ -53,8 +53,15 @@ user_groups:
 ---
 
 ## Short bio
-Dr. Robin Bourgeois ...
+Robin Bourgeois is a foresight practitioner and senior researcher at CIRAD, UMR Art-Dev. 
 
-## Areas of Expertise
-## Current activities related to public policies and governance in Africa
-## Five maximum relevant Publications related to public policies and governance
+His current research activities focus on the futures of governance and the governance of the future, futures literacy as a capability and anticipation as an emancipatory process. He is engaged in applied research and action research on territorial development and in capacity building in the discipline of anticipation. He is member of the World Futures Studies Federation and member of the Editorial Board of the journal “Futures and Foresight Science”. 
+
+He has worked at currently posted at the Centre for the Study of Governance Innovation (GovInn) in South Africa, at GFAR in Rome, CAPSA in Indonesia, IICA in Costa Rica and ISNAR in the Netherlands.
+
+[CIRAD Profile (in French)](http://agents.cirad.fr/index.php/Robin+BOURGEOIS)
+
+[Researgate profile](https://www.researchgate.net/profile/Robin_Bourgeois)
+
+
+## Publications related to public policies and governance

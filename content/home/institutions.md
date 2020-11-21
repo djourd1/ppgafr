@@ -67,7 +67,7 @@ subtitle = ""
   
   <div class="column">
     <div class="card">
-      <img src="img1.png" alt="CIRAD" style="width:100%" class="center">
+      <img src="media/cirad.jpg" alt="CIRAD" style="width:100%" class="center">
       <div class="container">
         <h5>CIRAD</h5>
         <p class="title">Centre de Coopération Internationale en Recherche Agronomique pour le Dévelopment, France </p>
@@ -83,6 +83,17 @@ subtitle = ""
         <h5>CMA</h5>
         <p class="title">Center for Mediation in Africa, University of Pretoria </p>
         <a href="author/cma"> More here</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/coe.png" alt="CoE Food Security" style="width:100%" class="center">
+      <div class="container">
+        <h5>CoE Food Security</h5>
+        <p class="title">Center of Excellence Food Security, University of the Western Cape </p>
+        <a href="author/coe-food-security"> More here</a>
       </div>
     </div>
   </div>

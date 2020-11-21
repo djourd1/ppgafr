@@ -57,10 +57,10 @@ subtitle = ""
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="img1.jpg" alt="Alexandre Caron" style="width:100%">
+      <img src="media/caron.jpg" alt="Alexandre Caron" style="width:100%">
       <div class="container">
         <h5>Alexandre Caron</h5>
-        <p class="title">Vet</p>
+        <p class="title">Disease ecology</p>
         <a href="author/alexandre-caron"> More here</a>
       </div>
     </div>
@@ -115,11 +115,10 @@ subtitle = ""
 
 
 <rawhtml>
-
   
   <div class="column">
     <div class="card">
-      <img src="img2.jpg" alt="Caroline Lejars" style="width:100%">
+      <img src="media/lejars.png" alt="Caroline Lejars" style="width:100%">
       <div class="container">
         <h5>Caroline Lejars</h5>
         <p class="title">Economist, UMR G-EAU, CIRAD, France </p>
@@ -193,7 +192,7 @@ subtitle = ""
 
   <div class="column">
     <div class="card">
-      <img src="media/saenz.png" alt="Fernando Saenz" style="width:100%" class="center" >
+      <img src="media/saenz.jpg" alt="Fernando Saenz" style="width:100%" class="center" >
       <div class="container">
         <h5>Fernando Saenz</h5>
         <p class="title">Costa Rica</p>
@@ -247,7 +246,7 @@ subtitle = ""
       <div class="container">
         <h5>Jean-François Le Coq</h5>
         <p class="title">CIRAD, Costa Rica </p>
-        <a href="author/djiby-dia"> More here</a>
+        <a href="author/jean-francois-lecoq"> More here</a>
       </div>
     </div>
   </div>
@@ -408,7 +407,7 @@ subtitle = ""
 
   <div class="column">
     <div class="card">
-      <img src="media/burnod.png" alt="Perinne Burnod" style="width:100%" class="center" >
+      <img src="media/burnod.jpg" alt="Perinne Burnod" style="width:100%" class="center" >
       <div class="container">
         <h5>Perinne Burnod</h5>
         <p class="title">CIRAD UMR TETIS, Madagascar</p>

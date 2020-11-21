@@ -4,7 +4,7 @@ headless = true
 active = true  
 weight = 05  
 
-title = "Developing the partnership on public policies and governance in Africa"
+title = "Developing a partnership on public policies and governance in Africa"
 subtitle = ""
 
 [design]
@@ -16,8 +16,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  #gradient_start = "DarkGreen"
-  #gradient_end = "ForestGreen"
+  gradient_start = "DarkGreen"
+  gradient_end = "ForestGreen"
   
   # Background image.
   image = ""  # Name of image in `static/media/`.

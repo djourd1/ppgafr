@@ -1,20 +1,21 @@
 ---
 # Display name
-title: CIRAD
+title: CoE Food Security
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "cirad"
+- "coe-food-security"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Centre de Coopération Internationale en Recherche Agronomique pour le Développement, France
+role: 
+
 # Organizations/Affiliations
 organizations:
-- name: CIRAD
-  url: ""
+- name: University of the Western Cape, South Africa
+  url: "https://foodsecurity.ac.za/"
 
 
 
@@ -25,7 +26,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:bruno.losch@cirad.fr"
+  link: "mailto:"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -50,10 +51,13 @@ user_groups:
 
 ---
 
-<img src="logo.jpg" alt="logo" class="center">
-
-## Who are we ?
-
-## What are the major challenges in Africa we are working on
-
-## What are our major activities in the fields of governance and public policies
+<img src="logo.png" alt="logo" class="center">
+<br>
+<img src="Diapositive1.PNG" alt="di1"  width=100%>
+<br>
+<br>
+<img src="Diapositive2.PNG" alt="di2"  width=100%>
+<br>
+<br>
+<img src="Diapositive3.PNG" alt="di3"  width=100%>
+<br>
