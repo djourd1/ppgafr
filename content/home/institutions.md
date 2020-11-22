@@ -55,10 +55,10 @@ subtitle = ""
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="img1.jpg" alt="BAME" style="width:100%">
+      <img src="media/bame.png" alt="BAME" style="width:100%">
       <div class="container">
         <h5>BAME</h5>
-        <p class="title">Bureau d'analyses macro-économiques</p>
+        <p class="title">Bureau d'analyses macro-économiques, ISRA, Senegal</p>
         <a href="author/bame"> More here</a>
       </div>
     </div>
@@ -77,7 +77,7 @@ subtitle = ""
 
   <div class="column">
     <div class="card">
-      <img src="img1.png" alt="CMA" style="width:100%" class="center">
+      <img src="media/cma.png" alt="CMA" style="width:100%" class="center">
       <div class="container">
         <h5>CMA</h5>
         <p class="title">Center for Mediation in Africa, University of Pretoria </p>

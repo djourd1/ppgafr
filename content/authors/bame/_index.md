@@ -14,11 +14,10 @@ role: Bureau des Etudes Macro Economiques, Senegal
 
 # Organizations/Affiliations
 organizations:
-- name: BAME
-  url : "http://www.bameinfopol.info"
 - name: ISRA
   url: "http://www.isra.sn"
-
+- name: BAME
+  url : "http://www.bameinfopol.info"
 
 
 # Social/Academic Networking
@@ -53,8 +52,13 @@ user_groups:
 
 ---
 
-## Who are we ?
-
-## What are the major challenges in Africa we are working on
-
-## What are our major activities in the fields of governance and public policies
+<br>
+<img src="Diapositive1.PNG" alt="di1"  width=100%>
+<br>
+<img src="Diapositive2.PNG" alt="di2"  width=100%>
+<br>
+<br>
+<img src="Diapositive3.PNG" alt="di3"  width=100%>
+<br>
+<img src="Diapositive4.PNG" alt="di3"  width=100%>
+<br>
