@@ -42,9 +42,3 @@ Over the last three years, he has been working with NEPAD (Rural Futures Program
 He joined the World Bank between 2005-2011 where he led the RuralStruc Program on structural transformation and rural change—a joint initiative of the World Bank, IFAD, and the French government. Previously, he was a visiting scholar at the Institute of International Studies (University of California–Berkeley), and in charge of Cirad’s Family Agriculture Program (1998-2002).
 
 He holds a Master’s in political science and in geography and a PhD in economics. He has published extensively in the field of rural studies, family agriculture, public policies, and the political economy of development. Before resettling in South Africa, he was a member of the scientific and technical committee of the French Global Environment Facility (FFEM).
-
-## Areas of Expertise
-
-## Current activities related to public policies and governance in Africa
-
-## Relevant publications related to public policies and governance

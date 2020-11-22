@@ -60,7 +60,7 @@ subtitle = ""
       <img src="media/caron.jpg" alt="Alexandre Caron" style="width:100%">
       <div class="container">
         <h5>Alexandre Caron</h5>
-        <p class="title">Disease ecology</p>
+        <p class="title">Disease ecologist, CIRAD, dP Production and Conservation in Partnership, Mozambique</p>
         <a href="author/alexandre-caron"> More here</a>
       </div>
     </div>

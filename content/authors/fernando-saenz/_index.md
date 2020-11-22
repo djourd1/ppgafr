@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Acting Director, Centre for Mediation in Africa, UP
+role: Senior researcher and lecturer
 
 # Organizations/Affiliations
 organizations:
@@ -45,7 +45,23 @@ Ph.D. by Wageningen University, The Netherlands. Mention in Social Sciences, Dev
 
 Senior researcher and lecturer at the International Centre of Economic Policy for Sustainable Development (CINPE), Universidad Nacional (UNA), Costa Rica, Policies for the Rural and Local Development Research Group (since 1996). 
 
-Coordinator of the Ph.D. Program in Economic Policy (since 2020). Research subjects: institutional economics, development of rural territories and Public Policies analysis, agricultural economics. Lecturer of the following courses: “Introduction to Institutional Economics”, “Public Policies”, “Research Technics” and “Applied Research Seminar”, for the Master Programs of CINPE.
+Coordinator of the Ph.D. Program in Economic Policy (since 2020). 
+
+## Research subjects: 
+
++ Institutional economics
++ Development of rural territories 
++ Public Policies analysis
++ Agricultural economics
+
+## Lecturer of the following courses
+
+For the Master Programs of CINPE:
+
++ Introduction to Institutional Economics
++ Public Policies
++ Research Technics
++ Applied Research Seminar
 
 ## Relevant publications related to public policies and governance
 
@@ -55,8 +71,6 @@ ORCID iD: https://orcid.org/0000-0001-8260-7751
 
 
 + Bonin M, Saenz F, Le Coq JF. (2020) Loi d’appui à l’agriculture biologique au Costa Rica. D’une élaboration réussie à une mise en œuvre partielle.  Économie rurale, 372 | 2020, 85-101 (DOI: https://doi.org/10.4000/economierurale.7763) 
-
-
 
 + Bonin M., Le Coq JF, Aznar, O., Sáenz-Segura F. (2017). Gouvernance, efficacité et justice des instruments de politiques agricoles visant à favoriser la provision de services environnementaux : une analyse comparée entre Costa Rica et France (Guadeloupe). Vertigo 17(2) (http://journals.openedition.org/vertigo/18670).
 
