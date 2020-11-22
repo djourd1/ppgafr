@@ -120,14 +120,59 @@ subtitle = ""
 
   <div class="column">
     <div class="card">
-      <img src="img1jpg" alt="ESSA" style="width:100%">
+      <img src="media/essa.png" alt="ESSA" style="width:100%">
       <div class="container">
-        <h5>ESSA</h5>
-        <p class="title">ESSA, Madagascar </p>
-        <a href="author/ESSA"> More here...</a>
+        <h5>Ecole Supérieure des Sciences Agronomiques</h5>
+        <p class="title">Université d'Antananarivo, Madagascar </p>
+        <a href="author/essa"> More here...</a>
       </div>
     </div>
   </div>
-  
+
+  <div class="column">
+    <div class="card">
+      <img src="media/govinn-logo.png" alt="GovInn" style="width:100%">
+      <div class="container">
+        <h5>GovInn</h5>
+        <p class="title">Centre for the Study of Governance Innovation, UP, South Africa </p>
+        <a href="author/govinn-up"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/omr.png" alt="GovInn" style="width:100%">
+      <div class="container">
+        <h5>OMR</h5>
+        <p class="title">Observatorio do Medio Rural </p>
+        <a href="author/omr"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/uem.png" alt="UEM" style="width:100%">
+      <div class="container">
+        <h5>UEM</h5>
+        <p class="title">Universidad Eduardo Mundlane, Mozambique</p>
+        <a href="author/govinn-up"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="media/uz.png" alt="UZ" style="width:100%">
+      <div class="container">
+        <h5>UZ</h5>
+        <p class="title">University of Zimbabwe, Zimbabwe</p>
+        <a href="author/govinn-up"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+
 </div>
 </rawhtml>

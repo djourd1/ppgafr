@@ -14,7 +14,7 @@ all_day: false
 publishDate: "2020-02-01T01:00:00Z"
 
 
-authors: [margarida-martins]
+authors: [djiby-dia]
 tags: 
 - Senegal
 

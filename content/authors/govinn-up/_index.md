@@ -1,23 +1,21 @@
 ---
 # Display name
-title: BAME
+title: "GovInn UP"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "bame"
+- "govinn-up"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Bureau des Etudes Macro Economiques, Senegal
+role: 
 
 # Organizations/Affiliations
 organizations:
-- name: BAME
-  url : "http://www.bameinfopol.info"
-- name: ISRA
-  url: "http://www.isra.sn"
+- name: Center for the Study of Governance Innovation, University of Pretoria
+  url: "http://governanceinnovation.org/"
 
 
 
@@ -28,7 +26,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:djibydia@gmail.com"
+  link: "mailto:"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -53,8 +51,14 @@ user_groups:
 
 ---
 
-## Who are we ?
-
-## What are the major challenges in Africa we are working on
-
-## What are our major activities in the fields of governance and public policies
+<img src="Diapositive1.PNG" alt="di1"  width=100%>
+<br>
+<br>
+<img src="Diapositive2.PNG" alt="di2"  width=100%>
+<br>
+<br>
+<img src="Diapositive3.PNG" alt="di3"  width=100%>
+<br>
+<br>
+<img src="Diapositive4.PNG" alt="di4"  width=100%>
+<br>

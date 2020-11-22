@@ -1,23 +1,21 @@
 ---
 # Display name
-title: BAME
+title: "ESSA"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "bame"
+- "essa"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Bureau des Etudes Macro Economiques, Senegal
+role: Ecole Supérieure des Sciences Agronomiques
 
 # Organizations/Affiliations
 organizations:
-- name: BAME
-  url : "http://www.bameinfopol.info"
-- name: ISRA
-  url: "http://www.isra.sn"
+- name: University of Antananarivo, Madagascar
+  url: ""
 
 
 
@@ -26,9 +24,9 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:djibydia@gmail.com"
+#- icon: envelope
+#  icon_pack: fas
+#  link: "mailto:"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -52,9 +50,10 @@ highlight_name: false
 user_groups:
 
 ---
-
-## Who are we ?
-
-## What are the major challenges in Africa we are working on
-
-## What are our major activities in the fields of governance and public policies
+<br>
+<img src="Diapositive1.PNG" alt="di1"  width=100%>
+<br>
+<img src="Diapositive2.PNG" alt="di2"  width=100%>
+<br>
+<img src="Diapositive3.PNG" alt="di3"  width=100%>
+<br>

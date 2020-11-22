@@ -163,7 +163,7 @@ subtitle = ""
 
   <div class="column">
     <div class="card">
-      <img src="img2.jpg" alt="Djiby Dia" style="width:100%">
+      <img src="media/djiby.jpg" alt="Djiby Dia" style="width:100%">
       <div class="container">
         <h5>Djiby Dia</h5>
         <p class="title">BAME, Senegal </p>
@@ -214,7 +214,7 @@ subtitle = ""
 
   <div class="column">
     <div class="card">
-      <img src="media/ranaivoarisoa.png" alt="Ranaivoarisoa" style="width:100%" class="center" >
+      <img src="media/ranaivoarisoa.jpg" alt="Ranaivoarisoa" style="width:100%" class="center" >
       <div class="container">
         <h5>Holy Ranaivoarisoa</h5>
         <p class="title">Madagascar</p>
@@ -388,7 +388,7 @@ subtitle = ""
       <div class="container">
         <h5>Pascal Rajantson</h5>
         <p class="title">ESSA, Université d'Antanarivo, Madagascar</p>
-        <a href="author/marc-piraux"> More here...</a>
+        <a href="author/pascal-rajantson"> More here...</a>
       </div>
     </div>
   </div>
@@ -400,7 +400,7 @@ subtitle = ""
       <div class="container">
         <h5>Paule Moustier</h5>
         <p class="title">Head, UMR MOISA, CIRAD, France</p>
-        <a href="author/margarida-martins"> More here...</a>
+        <a href="author/paule-moustier"> More here...</a>
       </div>
     </div>
   </div>

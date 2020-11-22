@@ -1,5 +1,6 @@
 ---
-title: Presentation of ESSA activities - Madagascar
+title: Presentation of Higher School Of Agronomic Sciences (University Of Antananarivo, Madagascar)
+
 
 summary: " "
 abstract: ""
@@ -14,7 +15,7 @@ all_day: false
 publishDate: "2020-02-01T01:00:00Z"
 
 
-authors: [unknown]
+authors: [holy-ranaivoarisoa]
 tags: 
 - ESSA
 - Madagascar
@@ -32,7 +33,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "presentations/talk04_ESSA_2020.pdf"
 url_slides: ""
 url_video: ""
 
