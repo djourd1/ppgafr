@@ -16,7 +16,7 @@ role: Regional Director, CIRAD - Southern Africa and Madagascar
 # Organizations/Affiliations
 organizations:
 - name: CIRAD Regional Office for Southern Africa and Madagascar
-  url: ""
+  url: "https://madagascar.cirad.fr"
 
 
 

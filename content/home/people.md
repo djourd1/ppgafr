@@ -340,11 +340,11 @@ subtitle = ""
 
   <div class="column">
     <div class="card">
-      <img src="media/figuie.png" alt="Muriel Figuié" style="width:100%" class="center" >
+      <img src="media/figuie.jpg" alt="Muriel Figuié" style="width:100%" class="center" >
       <div class="container">
         <h5>Muriel Figuié</h5>
         <p class="title">CIRAD UMR MOISA, UEM, Mozambique</p>
-        <a href="author/joao-feijo"> More here...</a>
+        <a href="author/muriel-figuie"> More here...</a>
       </div>
     </div>
   </div>
@@ -523,11 +523,11 @@ subtitle = ""
 
   <div class="column">
     <div class="card">
-      <img src="media/pedsiza.png" alt="Tarisayi Pedsiza" style="width:100%" class="center" >
+      <img src="media/pedzisa.jpg" alt="tarisayi-pedzisa" style="width:100%" class="center" >
       <div class="container">
-        <h5>Tarisayi Pedsiza</h5>
-        <p class="title">U Zimbabwe</p>
-        <a href="author/tarisayi-pedsiza"> More here...</a>
+        <h5>Tarisayi Pedzisa</h5>
+        <p class="title">Dept. Agricultural Economics and Extension, U Zimbabwe</p>
+        <a href="author/tarisayi-pedzisa"> More here...</a>
       </div>
     </div>
   </div>

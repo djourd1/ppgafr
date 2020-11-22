@@ -1,23 +1,22 @@
 ---
-title: Presentation of Centre de Coopération Internationale en Recherche Agronomique pour le Développement (CIRAD)
+title: Presentation of University of Zimbabwe - Dept of Agricultural Economics and Extension
 
 summary: " "
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-11-23T11:50:00"
-date_end: "2020-11-23T12:05:00"
+date: "2020-11-23T11:43:00"
+date_end: "2020-11-23T11:50:00"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-02-01T01:00:00Z"
 
 
-authors: [sylvain-perret]
+authors: [tarisayi-pedzisa]
 tags: 
-- France
-- CIRAD
+- Zimbabwe
 
 
 # Is this a featured talk? (true/false)
@@ -33,7 +32,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "presentations/talk12_CIRAD.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
