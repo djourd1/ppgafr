@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 72  # Order that this section will appear.
 
 title = "Agenda"
-subtitle = "Afternoon sessions"
+subtitle = "Afternoon sessions (South Africa Times)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

@@ -245,7 +245,7 @@ subtitle = ""
       <img src="media/lecoq.jpg" alt="Jef Le Coq" style="width:100%">
       <div class="container">
         <h5>Jean-François Le Coq</h5>
-        <p class="title">CIRAD, Costa Rica </p>
+        <p class="title">CIRAD and International Centre for Tropical Agriculture (CIAT), Costa Rica </p>
         <a href="author/jean-francois-lecoq"> More here</a>
       </div>
     </div>
@@ -256,7 +256,7 @@ subtitle = ""
       <img src="media/bouvet.png" alt="JM Bouvet" style="width:100%" class="center" >
       <div class="container">
         <h5>Jean-Marc Bouvet</h5>
-        <p class="title">Regional Director, CIRAD</p>
+        <p class="title">Regional Director, CIRAD - Southern Africa and Madagascar</p>
         <a href="author/jean-marc-bouvet"> More here...</a>
       </div>
     </div>

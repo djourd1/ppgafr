@@ -100,7 +100,7 @@ subtitle = ""
 
   <div class="column">
     <div class="card">
-      <img src="media/dgeog.png" alt="Dpt Geography" style="width:100%" class="center">
+      <img src="media/uantanana.png" alt="Dpt Geography" style="width:100%" class="center" background='red'>
       <div class="container">
         <h5>Department of Geography</h5>
         <p class="title"> Faculty of Literature and Human Sciences, University of Antananarivo, Madagascar </p>
@@ -117,6 +117,19 @@ subtitle = ""
 
 <rawhtml>
 <div class="row">
+
+  <div class="column">
+    <div class="card">
+      <img src="media/up.png" alt="AEERD" style="width:100%">
+      <div class="container">
+        <h5>Dept. Agricultural Economics, Extension and Rural Development</h5>
+        <p class="title">University of Pretoria, South Africa </p>
+        <a href="author/dept-aeerd"> More here...</a>
+      </div>
+    </div>
+  </div>
+
+
 
   <div class="column">
     <div class="card">
@@ -157,7 +170,7 @@ subtitle = ""
       <div class="container">
         <h5>UEM</h5>
         <p class="title">Universidad Eduardo Mundlane, Mozambique</p>
-        <a href="author/govinn-up"> More here...</a>
+        <a href="author/uem"> More here...</a>
       </div>
     </div>
   </div>
@@ -168,7 +181,7 @@ subtitle = ""
       <div class="container">
         <h5>UZ</h5>
         <p class="title">University of Zimbabwe, Zimbabwe</p>
-        <a href="author/govinn-up"> More here...</a>
+        <a href="author/uz"> More here...</a>
       </div>
     </div>
   </div>

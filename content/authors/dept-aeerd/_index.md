@@ -1,20 +1,21 @@
 ---
 # Display name
-title: CIRAD
+title: "Dept AEERD"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "cirad"
+- "dept-aeerd"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Centre de Coopération Internationale en Recherche Agronomique pour le Développement, France
+role: Department of Agricultural Economics, Extension and Rural Development
+
 # Organizations/Affiliations
 organizations:
-- name: CIRAD
-  url: "https://www.cirad.fr/en"
+- name: University of Pretoria, South Africa
+  url: "https://www.up.ac.za/agricultural-economics-extension-and-rural-development"
 
 
 
@@ -23,9 +24,9 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:sylvain.perret@cirad.fr"
+#- icon: envelope
+#  icon_pack: fas
+#  link: "mailto:"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -50,26 +51,13 @@ user_groups:
 
 ---
 
-<img src="logo.jpg" alt="logo" class="center">
-
 <br>
 <img src="Diapositive1.PNG" alt="di1"  width=100%>
 <br>
 <img src="Diapositive2.PNG" alt="di2"  width=100%>
 <br>
+<br>
 <img src="Diapositive3.PNG" alt="di3"  width=100%>
 <br>
-<img src="Diapositive4.PNG" alt="di1"  width=100%>
+<img src="Diapositive4.PNG" alt="di3"  width=100%>
 <br>
-<img src="Diapositive5.PNG" alt="di2"  width=100%>
-<br>
-<br>
-<img src="Diapositive6.PNG" alt="di3"  width=100%>
-<br>
-<img src="Diapositive7.PNG" alt="di1"  width=100%>
-<br>
-<img src="Diapositive8.PNG" alt="di2"  width=100%>
-<br>
-
-
-
