@@ -181,7 +181,7 @@ subtitle = ""
  
   <div class="column">
     <div class="card">
-      <img src="media/mungatana.png" alt="Eric Mungatana" style="width:100%" class="center" >
+      <img src="media/mungatana.jpg" alt="Eric Mungatana" style="width:100%" class="center" >
       <div class="container">
         <h5>Eric Mungatana</h5>
         <p class="title">Economist, University of Pretoria, South Africa</p>
