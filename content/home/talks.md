@@ -68,3 +68,8 @@ subtitle = "Morning sessions (South Africa Times)"
  # CSS class.
  css_class = ""
 +++
+
+
+You will find the PDF of the presentations in order of presentations. 
+
+The full "paper" version of the programme is [here](presentations/Programme.pdf)
