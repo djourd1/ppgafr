@@ -1,20 +1,21 @@
 ---
 # Display name
-title: CIRAD
+title: "OMR"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "cirad"
+- "omr"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Centre de Coopération Internationale en Recherche Agronomique pour le Développement, France
+role: 
+
 # Organizations/Affiliations
 organizations:
-- name: CIRAD
-  url: "https://www.cirad.fr/en"
+- name: Observatorio do Meio Rural
+  url: "https://omrmz.org/omrweb/"
 
 
 
@@ -25,7 +26,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:sylvain.perret@cirad.fr"
+  link: "mailto:"
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -50,27 +51,25 @@ user_groups:
 
 ---
 
-<img src="logo.jpg" alt="logo" class="center">
-
-<br>
 <img src="Diapositive1.PNG" alt="di1"  width=100%>
+<br>
 <br>
 <img src="Diapositive2.PNG" alt="di2"  width=100%>
 <br>
-<img src="Diapositive5.PNG" alt="di3"  width=100%>
 <br>
-<img src="Diapositive7.PNG" alt="di1"  width=100%>
+<img src="Diapositive3.PNG" alt="di3"  width=100%>
 <br>
-<img src="Diapositive3.PNG" alt="di2"  width=100%>
 <br>
-<img src="Diapositive4.PNG" alt="di2"  width=100%>
+<img src="Diapositive4.PNG" alt="di4"  width=100%>
 <br>
-<img src="Diapositive5b.PNG" alt="di3"  width=100%>
+<img src="Diapositive5.PNG" alt="di1"  width=100%>
 <br>
-<img src="Diapositive6.PNG" alt="di1"  width=100%>
 <br>
-<img src="Diapositive8.PNG" alt="di2"  width=100%>
+<img src="Diapositive6.PNG" alt="di2"  width=100%>
 <br>
-
-
-
+<br>
+<img src="Diapositive7.PNG" alt="di3"  width=100%>
+<br>
+<br>
+<img src="Diapositive8.PNG" alt="di4"  width=100%>
+<br>

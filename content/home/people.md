@@ -451,11 +451,11 @@ subtitle = ""
 
   <div class="column">
     <div class="card">
-      <img src="media/mercandalli.jpg" alt="Sara Mercandalli" style="width:100%">
+      <img src="media/mercandalli.png" alt="Sara Mercandalli" style="width:100%">
       <div class="container">
         <h5>Sara Mercandalli</h5>
         <p class="title">CIRAD UMR Art-Dev; France</p>
-        <a href="author/pascal-razanakoto"> More here</a>
+        <a href="author/sara-mercandalli"> More here</a>
       </div>
     </div>
   </div>
