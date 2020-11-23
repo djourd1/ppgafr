@@ -63,6 +63,7 @@ user_groups:
 <br>
 <img src="Diapositive5.PNG" alt="di2"  width=100%>
 <br>
+<img src="Diapositive5b.PNG" alt="di2"  width=100%>
 <br>
 <img src="Diapositive6.PNG" alt="di3"  width=100%>
 <br>
