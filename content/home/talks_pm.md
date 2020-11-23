@@ -18,7 +18,7 @@ subtitle = "Afternoon sessions (South Africa Times)"
   count = 0
   
   # Choose how many pages you would like to offset by
-  offset = 14
+  offset = 13
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "asc"
