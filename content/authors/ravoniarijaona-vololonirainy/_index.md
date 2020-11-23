@@ -1,21 +1,21 @@
 ---
 # Display name
-title: "Pascal Razanakoto"
+title: "Ravoniarijaona Vololonirainy"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "pascal-razanakoto"
+- "ravoniarijaona-vololonirainy"
 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Economist and Geographer
+role: Assistant Director, Department of Geography, University of Antananarivo, Madagascar
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Geography, Faculty of Literature and Human Sciences, University of Antananarivo, Madagascar
+- name: University of Antananarivo
   url: ""
 
 
@@ -27,7 +27,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:pascal_29@hotmail.com'
+  link: 'mailto:rvololonirainy@moov.mg'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -44,31 +44,25 @@ user_groups:
 
 ## Short bio
 
-Economist and Geographer
+ 
+Geographer
 
-Lecturer, Associate Professor, 2012 to present
-
-Department of Geography, Faculty of Literature and Human Sciences,
+Senior lecturer and Associate Professor, Assistant Director, 
+1996 to present Department of Geography, Faculty of Literature and Human Sciences,
 University of Antananarivo, MADAGASCAR
-
 
 
 ## Areas of Expertise
 
-+ Public policies and sustainable development
-+ Economic geography
-+ Economic integration in Indian Ocean and Southern Africa
-+ Value chains management and local governance
++ Environment
++ Governance of natural resources 
 
 ## Current activities related to public policies and governance in Africa
 
-+ Economic policy and sustainable development in Madagascar
-+ Location of activities and innovation governance in economic geography
-+ Appraisals on macroeconomic indicators among national growth policies
++ Modes of local populations' governance on natural resources  
++ Customary law and traditional practices in governance of natural resources
 
 
 ## Publications related to public policies and governance
 
-+ RAZANAKOTO P. (2020), «Valorisation et gestion durable des ressources insulaires marines et littorales dans l’intégration régionale de la COI», (Valorization and sustainable management of marine and coastal resources within regional integration of Indian Ocean Commission ), in Madagascar et l’intégration régionale, Actes du Colloque international sur l’Intégration régionale, 2019, Paris, Éditions L’Harmattan.
-
-+ RAZANAKOTO P. (2020), Industries et développement durable en Afrique subsaharienne, (Industries and sustainable development in Subsaharan Africa), Éditions Universitaires Européennes. (forthcoming December 2020)
++ VOLOLONIRAINY R., FINOLAHY F. (2017), Mise en place de l’aire protégée et mutation du système agraire dans le terroir de Miadana du versant Est du corridor forestier Anjozorobe-Angavo, (Implementation of protected areas, and mutation of agricultural system in the locality of Miadana, East slope of the Anjozorobe-Angavo forest corridor), Madagascar Revue de Géographie, Actes du Colloque international sur le Développement, territoire et Changement climatique (Antananarivo, October 2017)

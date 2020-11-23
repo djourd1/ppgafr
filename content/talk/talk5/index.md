@@ -14,7 +14,8 @@ all_day: false
 publishDate: "2020-02-01T01:00:00Z"
 
 
-authors: [unknown]
+authors: [pascal-razanakoto]
+
 tags: 
 - University of Madagascar
 - Madagascar
